@@ -8,7 +8,6 @@ using std::vector;
 unique_ptr<BstNode<int>> RebuildBSTFromPreorder(
     const vector<int>& preorder_sequence) {
   // TODO - you fill in here.
-  // testing
   return nullptr;
 }
 
