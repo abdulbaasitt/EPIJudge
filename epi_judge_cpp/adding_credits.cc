@@ -8,6 +8,7 @@ using std::string;
 class ClientsCreditsInfo {
  public:
   void Insert(const string& client_id, int c) {
+    
     // TODO - you fill in here.
     return;
   }
