@@ -8,7 +8,7 @@ using std::string;
 class ClientsCreditsInfo {
  public:
   void Insert(const string& client_id, int c) {
-    
+
     // TODO - you fill in here.
     return;
   }
@@ -18,6 +18,7 @@ class ClientsCreditsInfo {
   }
   int Lookup(const string& client_id) const {
     // TODO - you fill in here.
+    // testing 
     return 0;
   }
   void AddAll(int C) {
